@@ -1,0 +1,3 @@
+Execute all the test case and show me the working proof 
+
+Only build what this slice needs.

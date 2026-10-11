@@ -1,0 +1,137 @@
+{
+  "cookies": [
+    {
+      "name": "BALANCEID-DEV",
+      "value": "cfapp001",
+      "domain": ".dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NextGenChatNowRef",
+      "value": "https%3A%2F%2Fdev-pxpportal.nextgen.com%2Fportallabhospital-26372%2Fportal%2F%23%2Fuser%2Flogin%20",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1790854404,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NextGenChatNowHistory",
+      "value": "1#",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1822383204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NextGenChatNowUserAlias",
+      "value": "%23",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1822383204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NextGenChatNowVisit",
+      "value": "1#1790847204",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ppdata",
+      "value": "%7B%22memberId%22%3A11465959%2C%22practiceMemberId%22%3A12726576%2C%22practiceId%22%3A26372%2C%22ticket%22%3A%22neilpswdO98%253D0cETob4tPx%252FDq%252F2SqrE4jyewscTry6b7gvLNfIiPYtToTXJ%252FgQFl4u4tEzAsNoRyD34rCispGHuqPKgx8z%252FUqDe4WR%252B6W%252BF9vIHNZMu%252BTxuhTC5%252BXNUDO0sbcQkn%252Bd%252BIQ9O64vLJ9h1ygSuq1zeG4l469XSJJpHHugHeT9SFvww8cpUooRdpBQ2h4flXVC2pfV0Eq55lmRLzpLbPoaeQs0UVa6WqD46nWOQChnSd7%252B%252FAJGmFLiipJzIpl2skMq7q9fPOOIKaeID70qa34av8BQ5KSd31BxcMRA37JPxFJDegT0KONSJqn27tb7%252BYWpdmT5tlSRzDiK4JrftOBKdUaza2S81MwgVzzXUROxwDfzKgYoO6GdbQmi08KSA7whqA3QbDa7Rjv3Zw5mEjr%252FWfuehsM2qerCQ3rQwllWU2UT0YZXR0fVZsbyv%252FIs8wjdHAFrksHb9d6nKWCriNhNTGsHKBe1DiKqYan%252BNpcLm7h7tDHd1V6qfgEQXMIBt031q5vVdiQcL3H2pEDHDqSmf1IU1rhqloAVUDaX0vAhd4wf%252FJDrQYWr6owpRjbUpj1uKEiwbW8DxUhFVGOAmpYpjNR8hbFDElGNn7H2%252FYEvAvW6hTgCIVkPme2DSpPxfWHjRwoMJmCTHgKSxUZLZV83Cx0kcY5JKfyZKw0J9170guXgvzr8hCs2GfjJqZ0Rw%252BTu3S0TlAnxC%252BrEwde4fFG8ULBQOy67q8YXcxqSvlsAtovO7nrXVQFwf4g4RudBmP04MWm91iSFzOV5%252B%252FIXVKLhUMwxuz3AIuLn6JTtR2o4qicv92Jgtbzv33nWns%252FRqlZ7ZsbpFCsmFSh44fOdCsD7y%252FtuubvEV0OVZ4vAzu3ijwazdfdVg1YlY7d2jeCag9r454%252FsBV24d6sJG5IEAUvdjl9N7uOA4XpYPuwQZ5%252FKOdXUG%252FfPC5GFJIYuhuR2RCygZwYf7AwP2vFlJodUfDPxPr3pI4ZesI2jELyQs2UmNkXkIuTLIXkGFh4ZPFEcM5zkYWqJ%252BhWaeeKFQlceCEz7k%252F0LvWCTWYt5%252FAiYunebBFEpD%252B3Q5N8LosLEnWv9J4bsyyKA0xj1z%252BaHG42BC9kks4FETA5BOcSM6z70BS5v7XWjl0EHf1PMYoK9ldALJxP2X4R0n0mgWcUoEjzZCKQbIrjFeAzp%252BckLN2oNIjVBSIvddedBfbx%252FKDtkovlT%252BUbb3E7JwtesS%252FhbHOig1E2nZoqVQtIU8Qz%252Bb28nnnEw5n1OJpPFLtCC0WdcbLIWOQ8VAsvGpclDcM2CrqpFGieX%252FeKHmByjPfl7UH8vT3rltgUfYNzT%252FkHzvOEttUZSP6QDz%252FO%252ByWNiBOivO9ruFfYNuv6O%252BHhPp%252FB2pVXo7DecThlgoec2rx8NomS5QFdPefglGZItI8I1hZLyn9PtolGAG2UHyVtpWzK6Rx7RVf9pU%252BEf8%252FhV87MLCH8I12ud5WPnocscB2nN1ymfqgyLA6YW%252BgmQ%253D%253D%22%2C%22ticketType%22%3A%22IAM%22%7D",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORIGMEMBER",
+      "value": "%7B%22memberId%22%3A11465959%2C%22practiceId%22%3A26372%7D",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-0",
+      "value": "AAAAAAAAAACrCx3jrQJYs1pYaqPQidGVH3X8Fj2bgrvizgCjfW4It3cr0DearmdBV9fZUTddfwaMJzw7PKe3A4BjJiMdUuUur+9y9PFvo1GP7U47zJLowKxDVh/pAtce9j7L6TgngmwOABc=",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1791452018.279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-1",
+      "value": "_remove_",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1791452018.279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-2",
+      "value": "_remove_",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1791452018.279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-3",
+      "value": "_remove_",
+      "domain": "dev-pxpportal.nextgen.com",
+      "path": "/",
+      "expires": 1791452018.279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev-pxpportal.nextgen.com",
+      "localStorage": [
+        {
+          "name": "lastPatient",
+          "value": "{\"firstName\":\"72MFA01\",\"lastName\":\"72MFA01\",\"accountId\":11465959,\"memberUuid\":\"4f8a3dad-b564-4d26-9271-f1debe3dd7ad\",\"authToken\":\"neilpswdO98%3D0cETob4tPx%2FDq%2F2SqrE4jyewscTry6b7gvLNfIiPYtToTXJ%2FgQFl4u4tEzAsNoRyD34rCispGHuqPKgx8z%2FUqDe4WR%2B6W%2BF9vIHNZMu%2BTxuhTC5%2BXNUDO0sbcQkn%2Bd%2BIQ9O64vLJ9h1ygSuq1zeG4l469XSJJpHHugHeT9SFvww8cpUooRdpBQ2h4flXVC2pfV0Eq55lmRLzpLbPoaeQs0UVa6WqD46nWOQChnSd7%2B%2FAJGmFLiipJzIpl2skMq7q9fPOOIKaeID70qa34av8BQ5KSd31BxcMRA37JPxFJDegT0KONSJqn27tb7%2BYWpdmT5tlSRzDiK4JrftOBKdUaza2S81MwgVzzXUROxwDfzKgYoO6GdbQmi08KSA7whqA3QbDa7Rjv3Zw5mEjr%2FWfuehsM2qerCQ3rQwllWU2UT0YZXR0fVZsbyv%2FIs8wjdHAFrksHb9d6nKWCriNhNTGsHKBe1DiKqYan%2BNpcLm7h7tDHd1V6qfgEQXMIBt031q5vVdiQcL3H2pEDHDqSmf1IU1rhqloAVUDaX0vAhd4wf%2FJDrQYWr6owpRjbUpj1uKEiwbW8DxUhFVGOAmpYpjNR8hbFDElGNn7H2%2FYEvAvW6hTgCIVkPme2DSpPxfWHjRwoMJmCTHgKSxUZLZV83Cx0kcY5JKfyZKw0J9170guXgvzr8hCs2GfjJqZ0Rw%2BTu3S0TlAnxC%2BrEwde4fFG8ULBQOy67q8YXcxqSvlsAtovO7nrXVQFwf4g4RudBmP04MWm91iSFzOV5%2B%2FIXVKLhUMwxuz3AIuLn6JTtR2o4qicv92Jgtbzv33nWns%2FRqlZ7ZsbpFCsmFSh44fOdCsD7y%2FtuubvEV0OVZ4vAzu3ijwazdfdVg1YlY7d2jeCag9r454%2FsBV24d6sJG5IEAUvdjl9N7uOA4XpYPuwQZ5%2FKOdXUG%2FfPC5GFJIYuhuR2RCygZwYf7AwP2vFlJodUfDPxPr3pI4ZesI2jELyQs2UmNkXkIuTLIXkGFh4ZPFEcM5zkYWqJ%2BhWaeeKFQlceCEz7k%2F0LvWCTWYt5%2FAiYunebBFEpD%2B3Q5N8LosLEnWv9J4bsyyKA0xj1z%2BaHG42BC9kks4FETA5BOcSM6z70BS5v7XWjl0EHf1PMYoK9ldALJxP2X4R0n0mgWcUoEjzZCKQbIrjFeAzp%2BckLN2oNIjVBSIvddedBfbx%2FKDtkovlT%2BUbb3E7JwtesS%2FhbHOig1E2nZoqVQtIU8Qz%2Bb28nnnEw5n1OJpPFLtCC0WdcbLIWOQ8VAsvGpclDcM2CrqpFGieX%2FeKHmByjPfl7UH8vT3rltgUfYNzT%2FkHzvOEttUZSP6QDz%2FO%2ByWNiBOivO9ruFfYNuv6O%2BHhPp%2FB2pVXo7DecThlgoec2rx8NomS5QFdPefglGZItI8I1hZLyn9PtolGAG2UHyVtpWzK6Rx7RVf9pU%2BEf8%2FhV87MLCH8I12ud5WPnocscB2nN1ymfqgyLA6YW%2BgmQ%3D%3D\",\"baseAccountId\":11465959,\"practiceMemberId\":12726576,\"emrId\":\"3604\",\"correctMapping\":true,\"profile\":{\"saveUserId\":false,\"unreadMessages\":0,\"formStatus\":false,\"unreadCcds\":0,\"shouldUpdateSecretQandA\":false,\"shouldUpdateUserName\":false,\"acknowledgedLatestTous\":[\"IPP\",\"TOU\"],\"mfaContactData\":{\"email\":null,\"smsNumber\":null,\"smsOptOut\":null,\"emailEnabledAsOption\":false,\"shouldUpdateMfaPhone\":false},\"billingAccountNumbers\":[],\"healthKeyPatient\":false,\"shouldAckNpp\":false,\"shouldUpdatePreferredLocation\":false,\"shouldUpdatePreferredProvider\":true,\"statementDeliveryPref\":\"BOTH\",\"shouldUpdateStatementDeliveryPref\":false}}"
+        },
+        {
+          "name": "previousUrl",
+          "value": "/user/login"
+        },
+        {
+          "name": "expires",
+          "value": "1790848108806"
+        },
+        {
+          "name": "user",
+          "value": "%7B%22loggedIn%22:true,%22authToken%22:%22neilpswdO98%253D0cETob4tPx%252FDq%252F2SqrE4jyewscTry6b7gvLNfIiPYtToTXJ%252FgQFl4u4tEzAsNoRyD34rCispGHuqPKgx8z%252FUqDe4WR%252B6W%252BF9vIHNZMu%252BTxuhTC5%252BXNUDO0sbcQkn%252Bd%252BIQ9O64vLJ9h1ygSuq1zeG4l469XSJJpHHugHeT9SFvww8cpUooRdpBQ2h4flXVC2pfV0Eq55lmRLzpLbPoaeQs0UVa6WqD46nWOQChnSd7%252B%252FAJGmFLiipJzIpl2skMq7q9fPOOIKaeID70qa34av8BQ5KSd31BxcMRA37JPxFJDegT0KONSJqn27tb7%252BYWpdmT5tlSRzDiK4JrftOBKdUaza2S81MwgVzzXUROxwDfzKgYoO6GdbQmi08KSA7whqA3QbDa7Rjv3Zw5mEjr%252FWfuehsM2qerCQ3rQwllWU2UT0YZXR0fVZsbyv%252FIs8wjdHAFrksHb9d6nKWCriNhNTGsHKBe1DiKqYan%252BNpcLm7h7tDHd1V6qfgEQXMIBt031q5vVdiQcL3H2pEDHDqSmf1IU1rhqloAVUDaX0vAhd4wf%252FJDrQYWr6owpRjbUpj1uKEiwbW8DxUhFVGOAmpYpjNR8hbFDElGNn7H2%252FYEvAvW6hTgCIVkPme2DSpPxfWHjRwoMJmCTHgKSxUZLZV83Cx0kcY5JKfyZKw0J9170guXgvzr8hCs2GfjJqZ0Rw%252BTu3S0TlAnxC%252BrEwde4fFG8ULBQOy67q8YXcxqSvlsAtovO7nrXVQFwf4g4RudBmP04MWm91iSFzOV5%252B%252FIXVKLhUMwxuz3AIuLn6JTtR2o4qicv92Jgtbzv33nWns%252FRqlZ7ZsbpFCsmFSh44fOdCsD7y%252FtuubvEV0OVZ4vAzu3ijwazdfdVg1YlY7d2jeCag9r454%252FsBV24d6sJG5IEAUvdjl9N7uOA4XpYPuwQZ5%252FKOdXUG%252FfPC5GFJIYuhuR2RCygZwYf7AwP2vFlJodUfDPxPr3pI4ZesI2jELyQs2UmNkXkIuTLIXkGFh4ZPFEcM5zkYWqJ%252BhWaeeKFQlceCEz7k%252F0LvWCTWYt5%252FAiYunebBFEpD%252B3Q5N8LosLEnWv9J4bsyyKA0xj1z%252BaHG42BC9kks4FETA5BOcSM6z70BS5v7XWjl0EHf1PMYoK9ldALJxP2X4R0n0mgWcUoEjzZCKQbIrjFeAzp%252BckLN2oNIjVBSIvddedBfbx%252FKDtkovlT%252BUbb3E7JwtesS%252FhbHOig1E2nZoqVQtIU8Qz%252Bb28nnnEw5n1OJpPFLtCC0WdcbLIWOQ8VAsvGpclDcM2CrqpFGieX%252FeKHmByjPfl7UH8vT3rltgUfYNzT%252FkHzvOEttUZSP6QDz%252FO%252ByWNiBOivO9ruFfYNuv6O%252BHhPp%252FB2pVXo7DecThlgoec2rx8NomS5QFdPefglGZItI8I1hZLyn9PtolGAG2UHyVtpWzK6Rx7RVf9pU%252BEf8%252FhV87MLCH8I12ud5WPnocscB2nN1ymfqgyLA6YW%252BgmQ%253D%253D%22,%22authUserOnly%22:false,%22userId%22:%22%22,%22accountId%22:11465959,%22memberUuid%22:%224f8a3dad-b564-4d26-9271-f1debe3dd7ad%22,%22practiceMemberId%22:12726576,%22name%22:%22%22,%22firstName%22:%2272MFA01%22,%22lastName%22:%2272MFA01%22,%22email%22:%2272mfa01@yopmail.com%22,%22dob%22:%7B%7D,%22address%22:%7B%22line1%22:null,%22line2%22:null,%22city%22:null,%22state%22:null%7D,%22phone%22:%5B%5D,%22dependents%22:%5B%7B%22memberId%22:11478403,%22memberUuid%22:%2236956797-0f0b-40d2-b8dc-ac71d82bf09c%22,%22practiceMemberId%22:12737713,%22demographicsData%22:%7B%22firstName%22:%22Wish72%22,%22lastName%22:%22Wish72%22,%22middleName%22:null,%22email%22:%2272mfa01@yopmail.com%22,%22language%22:null,%22dateOfBirth%22:%222025-01-01%22,%22gender%22:%22M%22%7D,%22patientData%22:%7B%22statementDeliveryPref%22:%22E_STATEMENT%22,%22healthKeyPatient%22:false,%22shouldUpdatePreferredProvider%22:true,%22shouldAckNpp%22:true,%22shouldUpdatePreferredLocation%22:false,%22correctMapping%22:true,%22billingAccountNumbers%22:%5B%5D,%22emrId%22:%224183%22,%22shouldUpdateStatementDeliveryPref%22:false%7D,%22ticket%22:%222A%252FHcEzW65s%253DEW4nhouYWHSD5H9B7OrWxfjC3m4L%252Bl%252BNPykxlBopSqCDZKRgCVzXNbyHu16pDvUyzmDKsMdZ1MEncSPLk%252BvGCYTyeVaRG6PGbOuW9X5fGQMaSqpp5I4%252FZlTN3bXSrl5qfwGqqXEs%252FEs9hla0sVzZRtZyzddOgXHjmxKklb4LkM7Xbc62H4mgaPU9nyMItk3CxqYB9%252BUqAihg%252BNzawTw5lsR%252Bv6F8mPnnKyxEup4O%252FaGpQ1IxcWpyAiaZjrUzE4VtrynxqiHiajqdQ4vF5%252BX0ie%252F4Bn0druBPDo%252B5b70zFwIrPM93xnA%252Fdh4rTEFsXC6GAn9mzKJbkW0N4R8mq7%252BGAzXbmrUO7iari5iWjaT%252B9DDkrzGKu6j%252FH9czKIdDhF9VIi3sty0n4juvh2rXE7jHZQK1Hu%252FG%252F57CfZb3kzmcOgyeA%252BgKf1ggK34hMBveQzp1wQIPFPkMmP4DLPbVQsT6fd7hlaQW%252FZWRlvmkcrVbN86uQdm3KXfSm9rGEkKGQS8duf50qu7XE1K0CdTqkBM4hVYSw9N0J2dEpNw%252BnKTzOvBc2ScJvlAJAFmz5Gmz%252FQ%252B0CEVRNVEqkuuWs1RfDVjm%252BOAa3Fk20KVsU2J4bq9caqVlZdt1TV%252BTCxxFyyXj2oXBPn9E%252FEuM1nMI4nQaT%252BOU65XUoynxeulb%252FQ6x0nJ8fxIhgC8LV0sNTY%252B8U0wSjDtWqUYAedQuyQXk7Tzy29EDipvlnM0so86%252FKfidEY9T%252FRafRZviNyb5UP5L1vhXvp4RNu3h7RN%252F8N4mIIpIsjgXRRvSULR5MPvapGf6FeRxmoGQEFsjdLB47KmqNR%252Fg0Q7aMMUO%252F5njPoT5pNOLHFQJtz2eaFNZjwNBk3zT6nkoYOilZUDjThvtuY6MfLzIkt9iozdx5toUTKVPUZ4p7SrGBdgJid6vDMLOmlN78cGyM6FMzM1mFoFzKQsBXpRE%252BlGnvRHNXvYvHoBU3hRYI6yEqblfqVcTWqot%252BlFYX4R1vPviyTEOa5NYzhzjO5bslkvmUEYhrAHp6vRzsvdCVK5iA%252BJLkhoQoNpQbEyYhUn6N6STDy9QuMM%252FiJV1lE106wIr4F0YfsSUFKLvC8qxdRS33R4V5GowVhOwD%252FlAJ6kLYuv84B8J%252BcLIN1mw4%252BLUGc%252BFQSzB0rSQk%252Fr2F9i0KO%252B7%252B30xPFCmEz%252F49u7%252FDFRoP5o2eud23OXZqoUbh62%252FEOS%252BR7ITfW%252FxuV1DS8bv9KJFRQNq9ph1GA7qpLlCKqshRTyEPr6l%252FmoQG6Nb3JhI3G94HDAZscp09hHp%252FOeqQRNO3b3WPwfbah8yHZU9vY%252BfO0gQwBVjsYzLuadAGV5nGATuWMgfDyBQzgrrMu55u1%252Br%252BPdG64%252FPOaZNqEHQ3pRTa4i2vHVblus%252B%252BJNCu1s3IHvgBbfwwSwkyzNeUYhBrqWlgsv6JsnT3J4pkPKo7gOwD1ZN5sH8%252BL4aS07nVV70nTLCAOreDXerOt0%253D%22,%22role%22:%22DEPENDENT_OF_GUARDIAN%22%7D%5D,%22security%22:%7B%7D,%22profile%22:%7B%22saveUserId%22:false,%22unreadMessages%22:0,%22formStatus%22:false,%22unreadCcds%22:0,%22shouldUpdateSecretQandA%22:false,%22shouldUpdateUserName%22:false,%22acknowledgedLatestTous%22:%5B%22IPP%22,%22TOU%22%5D,%22mfaContactData%22:%7B%22email%22:null,%22smsNumber%22:null,%22smsOptOut%22:null,%22emailEnabledAsOption%22:false,%22shouldUpdateMfaPhone%22:false%7D,%22billingAccountNumbers%22:%5B%5D,%22healthKeyPatient%22:false,%22shouldAckNpp%22:false,%22shouldUpdatePreferredLocation%22:false,%22shouldUpdatePreferredProvider%22:true,%22statementDeliveryPref%22:%22BOTH%22,%22shouldUpdateStatementDeliveryPref%22:false%7D,%22currentPatient%22:%7B%22firstName%22:%2272MFA01%22,%22lastName%22:%2272MFA01%22,%22accountId%22:11465959,%22memberUuid%22:%224f8a3dad-b564-4d26-9271-f1debe3dd7ad%22,%22authToken%22:%22neilpswdO98%253D0cETob4tPx%252FDq%252F2SqrE4jyewscTry6b7gvLNfIiPYtToTXJ%252FgQFl4u4tEzAsNoRyD34rCispGHuqPKgx8z%252FUqDe4WR%252B6W%252BF9vIHNZMu%252BTxuhTC5%252BXNUDO0sbcQkn%252Bd%252BIQ9O64vLJ9h1ygSuq1zeG4l469XSJJpHHugHeT9SFvww8cpUooRdpBQ2h4flXVC2pfV0Eq55lmRLzpLbPoaeQs0UVa6WqD46nWOQChnSd7%252B%252FAJGmFLiipJzIpl2skMq7q9fPOOIKaeID70qa34av8BQ5KSd31BxcMRA37JPxFJDegT0KONSJqn27tb7%252BYWpdmT5tlSRzDiK4JrftOBKdUaza2S81MwgVzzXUROxwDfzKgYoO6GdbQmi08KSA7whqA3QbDa7Rjv3Zw5mEjr%252FWfuehsM2qerCQ3rQwllWU2UT0YZXR0fVZsbyv%252FIs8wjdHAFrksHb9d6nKWCriNhNTGsHKBe1DiKqYan%252BNpcLm7h7tDHd1V6qfgEQXMIBt031q5vVdiQcL3H2pEDHDqSmf1IU1rhqloAVUDaX0vAhd4wf%252FJDrQYWr6owpRjbUpj1uKEiwbW8DxUhFVGOAmpYpjNR8hbFDElGNn7H2%252FYEvAvW6hTgCIVkPme2DSpPxfWHjRwoMJmCTHgKSxUZLZV83Cx0kcY5JKfyZKw0J9170guXgvzr8hCs2GfjJqZ0Rw%252BTu3S0TlAnxC%252BrEwde4fFG8ULBQOy67q8YXcxqSvlsAtovO7nrXVQFwf4g4RudBmP04MWm91iSFzOV5%252B%252FIXVKLhUMwxuz3AIuLn6JTtR2o4qicv92Jgtbzv33nWns%252FRqlZ7ZsbpFCsmFSh44fOdCsD7y%252FtuubvEV0OVZ4vAzu3ijwazdfdVg1YlY7d2jeCag9r454%252FsBV24d6sJG5IEAUvdjl9N7uOA4XpYPuwQZ5%252FKOdXUG%252FfPC5GFJIYuhuR2RCygZwYf7AwP2vFlJodUfDPxPr3pI4ZesI2jELyQs2UmNkXkIuTLIXkGFh4ZPFEcM5zkYWqJ%252BhWaeeKFQlceCEz7k%252F0LvWCTWYt5%252FAiYunebBFEpD%252B3Q5N8LosLEnWv9J4bsyyKA0xj1z%252BaHG42BC9kks4FETA5BOcSM6z70BS5v7XWjl0EHf1PMYoK9ldALJxP2X4R0n0mgWcUoEjzZCKQbIrjFeAzp%252BckLN2oNIjVBSIvddedBfbx%252FKDtkovlT%252BUbb3E7JwtesS%252FhbHOig1E2nZoqVQtIU8Qz%252Bb28nnnEw5n1OJpPFLtCC0WdcbLIWOQ8VAsvGpclDcM2CrqpFGieX%252FeKHmByjPfl7UH8vT3rltgUfYNzT%252FkHzvOEttUZSP6QDz%252FO%252ByWNiBOivO9ruFfYNuv6O%252BHhPp%252FB2pVXo7DecThlgoec2rx8NomS5QFdPefglGZItI8I1hZLyn9PtolGAG2UHyVtpWzK6Rx7RVf9pU%252BEf8%252FhV87MLCH8I12ud5WPnocscB2nN1ymfqgyLA6YW%252BgmQ%253D%253D%22,%22baseAccountId%22:11465959,%22practiceMemberId%22:12726576,%22emrId%22:%223604%22,%22correctMapping%22:true,%22profile%22:%7B%22saveUserId%22:false,%22unreadMessages%22:0,%22formStatus%22:false,%22unreadCcds%22:0,%22shouldUpdateSecretQandA%22:false,%22shouldUpdateUserName%22:false,%22acknowledgedLatestTous%22:%5B%22IPP%22,%22TOU%22%5D,%22mfaContactData%22:%7B%22email%22:null,%22smsNumber%22:null,%22smsOptOut%22:null,%22emailEnabledAsOption%22:false,%22shouldUpdateMfaPhone%22:false%7D,%22billingAccountNumbers%22:%5B%5D,%22healthKeyPatient%22:false,%22shouldAckNpp%22:false,%22shouldUpdatePreferredLocation%22:false,%22shouldUpdatePreferredProvider%22:true,%22statementDeliveryPref%22:%22BOTH%22,%22shouldUpdateStatementDeliveryPref%22:false%7D%7D,%22currentPatientIsSet%22:true,%22color%22:%22#00000085%22,%22emrId%22:%223604%22,%22correctMapping%22:true,%22touIds%22:%5B%5D,%22displayPracticeToggle%22:%5B%5D,%22practiceToggleConditionsCheck%22:%7B%7D,%22showFamilyAccounts%22:true,%22authId%22:%229e03d8cd6a324dac8dc7d5aa7d05e5ab%22,%22middleName%22:null,%22language%22:%22EN%22,%22saveUserId%22:false%7D"
+        }
+      ]
+    }
+  ]
+}
