@@ -1,0 +1,319 @@
+----------------------------------------**************************--------------------------------------
+                                            JavaScript notes
+----------------------------------------*************************--------------------------------------
+
+Print : 
+
+Console.log();
+
+
+Comments: 
+// this is comments 
+
+/* These are my comments 
+and it will not be used */ 
+
+----------------------------------------**************************--------------------------------------
+                                            Variables
+----------------------------------------*************************--------------------------------------
+
+
+Variables: 
+
+let - Redclare not possible but reassign is possible. Scope is global and block level
+var - Redeclartion is possible and reassign is possible . Scope is global/local level 
+const - COnstant value 
+
+ES6 Engine let and const are introduced. 
+
+
+
+
+
+
+Datatype identofer : 
+
+tyoeof() is used to identify the datatypes
+let n=10;
+console.log(typeof(n));
+
+
+When values are not assigned then it is "undefined: 
+
+When empty values are assigned as empty then it is " null" 
+
+----------------------------------------**************************--------------------------------------
+                                               Strings
+----------------------------------------*************************--------------------------------------
+
+
+string variables: 
+
+string variables are mentioned in ' ' (single quotes) or " " (double quotes) 
+
+Legth of string: 
+str.length()
+console.log("length"+" "+name.length);
+
+
+
+str.charAt() - Do not allow negative value
+
+
+console.log("charAt"+" "+name.charAt(5)); // m 
+
+str.at() - Allows negative value  - Retrive the value from the given no. 
+
+str.concat(); - ALlows concatenate two strings
+
+str.slice() 
+
+str.substring() - 
+
+str.toUpperCase()
+
+str.toLowerCase()
+
+str.trim()
+
+str.trimStart()
+
+str.trimEnd()
+
+str.repeat()
+
+str.replace()
+
+str.split()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------**************************--------------------------------------
+                                               Operators 
+----------------------------------------*************************--------------------------------------
+
+! not operator 
++ Addition operator 
+- subtraction operator 
+== - Equal
+&& - and
+|| - Or 
+----------------------------------------**************************--------------------------------------
+                                            Loops and condition 
+----------------------------------------*************************--------------------------------------
+
+Conditions : 
+
+if 
+
+if else 
+
+if else if else 
+
+while loop - > unless the condition is false the loop will execute 
+
+for loop - Use how many  times this has to  loop . 
+
+----------------------------------------**************************--------------------------------------
+                                           Array
+----------------------------------------*************************---------------------------------------
+
+Array delcare : 
+
+var name=['Ram','Raja','Palki','Ciaz'];
+
+Retrive value from array : 
+
+
+Update array : 
+
+
+
+Lenght of array : 
+
+unshift array()
+
+
+shify array()
+
+pop()
+
+push()
+
+replace()
+
+toString() : 
+
+Stringfy(): 
+
+slice():
+
+
+----------------------------------------**************************--------------------------------------
+                                           Array functions
+----------------------------------------*************************---------------------------------------
+
+
+reduce () :
+
+Reduce itreate the array and give one output.reduce take two arguments and it give one output at end. 
+
+Accumulates all items into a single final result.
+
+Ex: 
+
+const scorefor6ball=[4,2,1,0,0,1];
+
+const oneoverscore=scorefor6ball.reduce((initialValue,currentValue)=>{
+
+return intialvalue+currentValue; },0);
+
+console.log(oneoverscore);
+
+
+fillter(): 
+
+filter the given array and provide copy of output array .
+
+	Extracts a subset of data based on a condition.
+
+ex: 
+
+const roles=[{name : 'Giri', Role: 'QA'},{name : 'Priya', Role: 'Manager'},{name : 'Abhi', Role: 'student'},{name : 'Aaradhana', Role: 'Toodler'}]
+const roleManager = roles.filter(role => role.Role.toLowerCase() === 'manager');
+console.log(roleManager);
+
+map():
+
+Provides  A new array (exactly the same length).
+
+data based on a condition.	Transforms every item in the list one by one.
+
+Ex: 
+const mulby2anddiv3=[87, 89, 14, 52, 69];
+
+const result=mulby2anddiv3.map(num=>(num*2)/3);
+
+console.log(result);
+
+ 
+sort()
+
+----------------------------------------**************************--------------------------------------
+                                            functions
+----------------------------------------*************************---------------------------------------
+
+
+function: 
+
+A block of code execute together 
+
+ex:
+
+function conc(a,b){
+
+return a.concat(b);
+  
+}
+
+const b=conc("Dash","cam");
+
+console.log(b)
+
+
+function with name :
+
+
+function without name is called anonymous function
+
+Ex:
+
+
+const value=(a1,b1)=> a1.concat(b1);
+console.log(value("my","car"));
+
+
+----------------------------------------**************************--------------------------------------
+                                            JS Objects
+----------------------------------------*************************---------------------------------------
+
+Collection of properties
+
+ex:
+
+const cricket={ ball:1,bat:2,stems : 6, glouse: 4, player : 11};
+
+// to get the specific object
+console.log(cricket.ball);
+
+// to insert specific value into cricket
+cricket.day="night";
+console.log(cricket)
+
+// to update specific value into cricket
+console.log(cricket.player=13)
+console.log(cricket)
+
+// to delete specific value into cricket
+console.log(delete cricket.player);
+console.log(cricket);
+
+// to insert specific value into cricket in array format. 
+console.log(cricket['glouse'])
+
+ITERATE: 
+
+Method 1: 
+
+we can use in keyword to get specfic object 
+
+ex: 
+
+const cricket={ ball:1,bat:2,stems : 6, glouse: 4, player : 11)
+
+console .log ("player" in cricket)
+
+Method 2: 
+
+Using for loop : 
+
+const cricket={ ball:1,bat:2,stems : 6, glouse: 4, player : 11,
+                Team:function(){
+                  console.log(this.ball+""+ "will be provided."+""+this.bat+""+ "will be provided."+""+this.stems+""+ "will be provided."+""+this.glouse+""+ "will be provided."+""+this.player+"");
+  
+}
+              };
+
+console.log(cricket.ball);
+cricket.day="night";
+console.log(cricket)
+console.log(cricket.player=13)
+console.log(cricket)
+console.log(delete cricket.player);
+console.log(cricket);
+console.log(cricket['glouse'])
+
+//Iterate : 
+
+
+ex: Get the value 
+
+console.log('glouse' in cricket)
+
+
+for(let key in cricket){
+
+  console.log(cricket[key]);
+    
+}

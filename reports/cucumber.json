@@ -1,0 +1,129 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "testing-e2e-scenario-for-ecomm-site;:-e2e-invalid-login",
+        "keyword": "Scenario Outline",
+        "line": 8,
+        "name": ": E2E Invalid Login",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2964566200
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 17601199300
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I login into \"https://rahulshettyacademy.com/client/#/auth/login\" and Login with valud \"areyouserious@yopmail.com\" and \"Admin@1\"",
+            "match": {
+              "location": "feature\\step_definations\\stepdefination.js:7"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 5009199
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "I verify error message displayed for invalid login.",
+            "match": {
+              "location": "feature\\step_definations\\stepdefination.js:61"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 28073800
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ErrorValidation",
+            "line": 2
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "testing-e2e-scenario-for-ecomm-site;:-e2e-invalid-login",
+        "keyword": "Scenario Outline",
+        "line": 9,
+        "name": ": E2E Invalid Login",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3577048200
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2239438097
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I login into \"https://rahulshettyacademy.com/client/#/auth/login\" and Login with valud \"areyouserious@yopmails.com\" and \"9952250012\"",
+            "match": {
+              "location": "feature\\step_definations\\stepdefination.js:7"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 785998
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "I verify error message displayed for invalid login.",
+            "match": {
+              "location": "feature\\step_definations\\stepdefination.js:61"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 19872500
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ErrorValidation",
+            "line": 2
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "testing-e2e-scenario-for-ecomm-site",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Testing E2E Scenario for Ecomm site",
+    "tags": [],
+    "uri": "feature\\E2EInvalidLogin.feature"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "areyouserious",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test ApiClientAppInt.spec.js --headed",
+    "report:generate": "npx allure generate -o ./allure-report",
+    "report:open": "npx allure open ./allure-report",
+    "report:serve": "npx allure serve",
+    "safariRunner": "npx playwright test clientAppPOM.spec.js --config custom.config.js --project=webkit --grep @E2E",
+    "chromeRunner": "npx playwright test clientAppPOM.spec.js --config custom.config.js --project=chrome --grep @E2E",
+    "apirunner": "npx playwright test --config custom.config.js --project=chrome --grep @APITEST",
+    "regression": "npx playwright test clientAppPOM.spec.js --config custom.config.js --project=chrome --grep @Regression",
+    "feature": "npx cucumber-js feature/"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@azure/identity": "^4.13.3",
+    "@azure/playwright": "^1.1.6",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2",
+    "allure-playwright": "^3.13.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^13.3.0"
+  }
+}
